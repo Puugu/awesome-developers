@@ -8,7 +8,7 @@
 
 
 #### A project for first timers.
-It's a super simple project for first timers, based on modern JavaScript web stack. It gets the content from Github file `developers.json` and renders it in a beautiful way.
+This is a super simple project for first timers, based on the modern JavaScript web stack. It gets the content from Github file `developers.json` and renders it in a beautiful way.
 
 
 ##
@@ -26,6 +26,6 @@ It's a super simple project for first timers, based on modern JavaScript web sta
 - Add graphs for showing stats about developers.
 
 ##
-If you got anything to say, find me on twitter [@shreyas_a](https://twitter.com/shreyas_a).
+If you have anything to say, find me on twitter [@shreyas_a](https://twitter.com/shreyas_a).
 ##
  
