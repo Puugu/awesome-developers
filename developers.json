@@ -923,5 +923,22 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+{
+    "name": "Courtney Kirkham",
+    "company": "GEO Jobe",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS",
+      "ArcGIS API",
+      "Python",
+      "ArcPro Rest API",
+      "TypeScript"
+    ],
+    "city": "Gulfport, Mississippi, USA",
+    "github": "Puugu",
+    "email": "therealckirkham@gmail.com"
   }
 ]
